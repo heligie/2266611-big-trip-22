@@ -35,6 +35,9 @@ The user can sort the route points by the cost (click on the column heading **Pr
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
+- Architecture Pattern: MVP
+- OOP: Vanilla JavaScript using ES6 Classes
+- All JavaScript files are separate ES6 Modules
 
 ### Directory structure
 
